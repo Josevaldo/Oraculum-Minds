@@ -86,11 +86,11 @@
 	<template><bot name="emotions"/></template>
 </category>
 <category>
-	<pattern>FAZÊ-LO SOZINHO</pattern>
+	<pattern>* SOZINHO</pattern>
 	<template><srai>VOCÊ ESTÁ SOLITÁRIO</srai></template>
 </category>
 <category>
-	<pattern>FAZÊ-LO EMBARAÇADO</pattern>
+	<pattern>* EMBARAÇADO</pattern>
 	<template>Que é uma emoção humana bastante comum.</template>
 </category>
 <category>
